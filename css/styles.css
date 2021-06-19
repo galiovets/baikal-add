@@ -117,32 +117,10 @@ img {
 .upper.booking,
 .upper.excursions,
 .upper.tours,
-.upper.about-baikal,
-.upper.about-us {
+.upper.about-baikal {
   display: flex;
   flex-direction: column;
   margin-right: 76px;
-}
-
-.upper.booking {
-  width: 172px;
-}
-
-.upper.excursions {
-  width: 135px;
-}
-
-.upper.tours {
-  width: 178px;
-}
-
-.upper.about-baikal {
-  width: 194px;
-}
-
-.upper.about-us {
-  width: 96px;
-  margin-right: 0;
 }
 
 .upper.title {
